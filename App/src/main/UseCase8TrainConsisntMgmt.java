@@ -1,3 +1,5 @@
+package main;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -18,6 +20,8 @@ public class UseCase8TrainConsisntMgmt {
             return name + " (" + capacity + " seats)";
         }
     }
+
+
 
     public static void main(String[] args) {
         System.out.println("=== Train Consist Management App: UC8 Stream Filtering ===");

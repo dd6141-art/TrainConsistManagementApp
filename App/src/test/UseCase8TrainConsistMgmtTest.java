@@ -1,3 +1,5 @@
+package test;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -18,6 +20,8 @@ public class UseCase8TrainConsistMgmtTest {
             return name + " (" + capacity + " seats)";
         }
     }
+
+
 
     public static void main(String[] args) {
         System.out.println("=== Running Test Case for UC8 ===");
