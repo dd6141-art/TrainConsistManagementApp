@@ -10,6 +10,8 @@ public class UseCase8TrainConsisntMgmt {
         String name;
         int capacity;
 
+
+
         Bogie(String name, int capacity) {
             this.name = name;
             this.capacity = capacity;
