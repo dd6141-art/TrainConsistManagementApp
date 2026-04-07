@@ -6,3 +6,4 @@ UC4-A Java program using LinkedList to manage the physical sequence of a train, 
 UC5-A Java program using LinkedHashSet to ensure every bogie in the train is unique while preserving the exact order in which they were attached.  
 UC6-A Java program using HashMap to associate bogie names with their seating capacities using key-value pairs and entrySet iteration.  
 UC7-A Java program that sorts custom Bogie objects by seating capacity using a List and the Comparator interface with lambda expressions.  
+UC8-Java files demonstrating Stream API filtering with nested static classes to avoid duplicate class definition errors during compilation.  
