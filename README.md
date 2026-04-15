@@ -10,3 +10,4 @@ UC8-Java files demonstrating Stream API filtering with nested static classes to 
 UC9-A Java program using Stream Collectors.groupingBy() to organize bogies into a Map based on their category or type.  
 UC10-A Java program utilizing Stream map() and reduce() to aggregate individual bogie capacities into a total train seating capacity.  
 UC11-A Java program using Pattern and Matcher classes to enforce strict formatting rules for Train IDs and Cargo Codes through Regular Expressions.  
+UC12-A Java program using Stream allMatch() and lambda predicates to enforce safety rules, specifically ensuring Cylindrical bogies only carry Petroleum.
