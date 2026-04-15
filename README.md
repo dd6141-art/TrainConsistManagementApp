@@ -8,3 +8,4 @@ UC6-A Java program using HashMap to associate bogie names with their seating cap
 UC7-A Java program that sorts custom Bogie objects by seating capacity using a List and the Comparator interface with lambda expressions.
 UC8-Java files demonstrating Stream API filtering with nested static classes to avoid duplicate class definition errors during compilation.  
 UC9-A Java program using Stream Collectors.groupingBy() to organize bogies into a Map based on their category or type.  
+
